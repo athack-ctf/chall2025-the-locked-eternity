@@ -1,6 +1,6 @@
 # Chall - THE LOCKED ETERNITY
 
-> A brief description of the challenge
+> Breaking  Mac Os Keychain DB to decrypt stored notes.
 
 ## Type
 
