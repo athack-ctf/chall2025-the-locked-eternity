@@ -1,10 +1,3 @@
-The description of your challenge as seen by participants in CTFd. Try to make it feel within the theme
-of the event...
+A stolen MacBook. Fragments of a past someone tried to erase. Whatever was left behind is buried deep—hidden, locked, and unyielding. One note lingers in the void, its meaning just out of reach. The system resists, time works against you. Break the silence, or be lost in it forever.
 
----
-If your challenge is a multi-flag one (i.e., it consists of a sequence of sub-challenges each rewarded with
-its own flag), requiring a different description for each sub-challenge, then have your descriptions split as 
-done with this paragraph, and the next one.
-
----
-Obviously, for each sub-challenge, you should provide its flag value in [solution/FLAGS.md](solution/FLAGS.md).
+`@Houssem0x1`
