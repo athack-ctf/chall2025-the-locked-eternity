@@ -1,6 +1,6 @@
 # Chall - THE LOCKED ETERNITY
 
-> Breaking  Mac Os Keychain DB to decrypt stored notes.
+> Breaking  Mac Os Keychain DB to decrypt stored secure notes.
 
 ## Type
 
