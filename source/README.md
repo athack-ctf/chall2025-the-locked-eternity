@@ -1,11 +1,11 @@
 # Building Your Challenge
 
-The purpose of this directory is to provide a reproducible way of rebuilding your challenge.
+ENV: Mac OS X Sierra
 
-- If your challenge can be programmatically rebuilt, treat this directory as the root of the source code.
+Complex Login password
 
-- If your process is mainly manual, then it should be documented, along with all necessary files.
+Autologin Enabled
 
-- If you have used a special tool (e.g., a file encoding tool) to build the challenge, it should be documented as well.
+Create Secure note in keychain
 
-- For any clarifications, consult us (Anis and Hugo).
+take a disk image or use a triage script. (cedrapelta mac ir)
