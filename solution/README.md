@@ -10,6 +10,6 @@ To retrieve the machine password, one can check if the user enabled Auto Login o
 
 By decrypting the contents of the kcpassword file with this XOR key, the machine password can be obtained.
 
-Once the machine password is recovered, it can be used to decrypt the login.keychain-db. Tools like [Chainbreaker](https://github.com/n0fate/chainbreaker) can assist in decrypting the Keychain database. By doing this, the encrypted note stored within the Keychain can be accessed and revealed (flag).
+Once the machine password is recovered, it can be used to decrypt the login.keychain-db. Tools like [Chainbreaker](https://github.com/n0fate/chainbreaker) can assist in decrypting the Keychain database. By doing this, the encrypted note stored within the Keychain can be accessed and revealed.
 
 ![image](https://github.com/user-attachments/assets/6bbb4170-b3eb-4da6-a0b6-645d07864f17)
