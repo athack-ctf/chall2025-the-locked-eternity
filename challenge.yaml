@@ -1,0 +1,35 @@
+name: "The Locked Eternity"
+author: "Houssem"
+category: Forensics
+description: |
+    A stolen MacBook. Fragments of a past someone tried to erase. Whatever was left behind is buried deep—hidden, locked, and unyielding.
+    One secret note lingers in the void, its meaning just out of reach. The system resists, time works against you.
+    Break the silence, or be lost in it forever.
+
+    ## IMPORTANT
+    Due to GitHub constraints on large files, the file `the-locked_eternity.zip` was split into 2 parts. Use this command to merge it back to a single file.
+    
+    ```
+    cat the-locked_eternity.zip.part_1 the-locked_eternity.zip.part_2 > the-locked_eternity.zip
+    ```
+
+    SHA256 Checksum: `32145fee0badf48cf937342ae138cb50df7439a4e92b4a4cab7a100818fccf0d`
+    
+value: 350
+
+type: standard
+
+flags:
+  - type: "static"
+    content: "ATHACKCTF{Keych41nDB_4nD_4utoLog1n_4_the_WIN!!!}"
+    data: "case_insensitive"
+
+tags:
+
+files:
+  - offline-artifacts/the-locked_eternity.zip.part_1
+  - offline-artifacts/the-locked_eternity.zip.part_2
+
+state: visible
+
+version: "0.1"
